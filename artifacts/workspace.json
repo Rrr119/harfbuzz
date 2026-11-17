@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid23223",
+  "B": "/home/dev/feedback/uid23223",
+  "sha": "8f1a4e0634a35182e5dd04401edcf57acf5eb12e",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "harfbuzz",
+    "repo": "harfbuzz",
+    "sha": "8f1a4e0634a35182e5dd04401edcf57acf5eb12e"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "harfbuzz",
+    "cloneUrl": "https://github.com/Rrr119/harfbuzz.git"
+  },
+  "at": "2026-11-17T05:06:34.966Z"
+}
